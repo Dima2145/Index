@@ -14,6 +14,8 @@
 
 ## Задание 1  
 Напишите запрос к учебной базе данных, который вернёт процентное отношение общего размера всех индексов к общему размеру всех таблиц.  
+<img width="782" height="147" alt="Снимок306" src="https://github.com/user-attachments/assets/edb25fa1-c5bf-4df5-bb9a-741aa707d810" />
+
 
 ## Ответ 1
 
@@ -57,7 +59,7 @@ WHERE p.payment_date >= '2005-07-30'
 GROUP BY c.customer_id, c.last_name, c.first_name;  
  ```
 
-и теперь совсем другое дело
+и теперь совсем другое дело   
 <img width="615" height="163" alt="Снимок311" src="https://github.com/user-attachments/assets/a5c6b7a4-710d-4941-851e-21aa49a526cd" />
 
 <img width="1545" height="323" alt="Снимок312" src="https://github.com/user-attachments/assets/5ce88169-ec08-4545-8a09-809ace51fbcc" />
